@@ -1,0 +1,2 @@
+(()=>{"use strict";document.addEventListener("click",(function(t){t.target.closest("a")&&t.preventDefault()})),document.body.onsubmit=function(t){t.preventDefault()}})();
+//# sourceMappingURL=main.js.map
